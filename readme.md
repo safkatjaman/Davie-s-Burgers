@@ -10,7 +10,7 @@
 Tasks
 
 
-* You’ll go through Davie’s Burger’s menu item roughly from top to bottom. Let’s begin with styling the <nav> element containing the logo and navigation elements.
+* You’ll go through Davie’s Burger’s menu item roughly from top to bottom. Let’s begin with styling the < nav > element containing the logo and navigation elements.
 
 Set the width of the img to 180 pixels.
 Center the img horizontally using the margin property.
@@ -21,7 +21,7 @@ Center the img horizontally using the margin property.
 
 
 
-* Now set some rules for the element with the class content. This element is a container for all the elements not included in <nav>.
+* Now set some rules for the element with the class content. This element is a container for all the elements not included in < nav >.
 
 Set the height to 500 pixels.
 Create 10-pixel vertical margins and automatic horizontal margins.
